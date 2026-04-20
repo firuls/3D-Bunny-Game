@@ -7538,7 +7538,7 @@ MonoBehaviour:
   directionalLight: {fileID: 705507994}
   dayLightColor: {r: 1, g: 0.95, b: 0.8, a: 1}
   afternoonLightColor: {r: 0.9924528, g: 0.5952483, b: 0.30522597, a: 1}
-  snowLightColor: {r: 0.61142755, g: 0.70268875, b: 0.86415094, a: 1}
+  snowLightColor: {r: 0.28141683, g: 0.3904831, b: 0.5849056, a: 1}
 --- !u!114 &729527556
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7561,7 +7561,7 @@ MonoBehaviour:
   directionalLight: {fileID: 893186922}
   dayLightColor: {r: 0.9924528, g: 0.48078877, b: 0.23032388, a: 1}
   afternoonLightColor: {r: 0.7132075, g: 0.35660374, b: 0, a: 1}
-  snowLightColor: {r: 0.081131995, g: 0.55339944, b: 1, a: 1}
+  snowLightColor: {r: 0.082352936, g: 0.21537936, b: 1, a: 1}
 --- !u!1001 &730853844
 PrefabInstance:
   m_ObjectHideFlags: 0
